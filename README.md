@@ -41,6 +41,8 @@
 
 ![Создание виртуальной машины](https://github.com/Andrewsolo1969/9-01-hw/blob/main/img/VM_creating.png)
 
+Доступ на VM по SSH по ключу
+
 ![Доступ по SSH](https://github.com/Andrewsolo1969/9-01-hw/blob/main/img/SSH.png)
 
 17. Перейдите в раздел "Все сервисы" > "Инфраструктура и сеть" > "Monitoring"
@@ -58,4 +60,3 @@
 
 Требования к результату
 - прикрепите в файл README.md скриншот вашего дашборда в Yandex Monitoring с мониторингом загрузки процессора виртуальной машины
-
