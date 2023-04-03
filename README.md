@@ -56,9 +56,7 @@
 25. Задайте имя дашборда, если появится окно ввода имени дашборда
 26. Сделайте скриншот
 
-
-![CPU utilization](https://github.com/Andrewsolo1969/8-01-hw/blob/main/img/CPU_utilization.png)
-
+![CPU utilization](https://github.com/Andrewsolo1969/9-01-hw/blob/main/img/CPU_utilization.png)
 
 Требования к результату
 - прикрепите в файл README.md скриншот вашего дашборда в Yandex Monitoring с мониторингом загрузки процессора виртуальной машины
