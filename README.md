@@ -38,6 +38,11 @@
 14. Вставьте публичный SHH-ключ в поле SSH-ключ. Если этого ключа у вас нету, создайте его с помощью утилиты PuTTYgen
 15. Поставьте галочку "Установить" в пункте "Агент сбора метрик"
 16. Нажмите на синюю кнопку "Создать ВМ"
+
+![Создание виртуальной машины](https://github.com/Andrewsolo1969/9-01-hw/blob/main/img/VM_creating.png)
+
+![Доступ по SSH](https://github.com/Andrewsolo1969/9-01-hw/blob/main/img/SSH.png)
+
 17. Перейдите в раздел "Все сервисы" > "Инфраструктура и сеть" > "Monitoring"
 18. Нажмите на кнопку "Создать дашборд", расположенную в разделе "Возможности сервиса" > "Дашборды"
 19. В открывшемся окне в разделе "Добавить виджет" нажмите на "График"
@@ -49,68 +54,8 @@
 25. Задайте имя дашборда, если появится окно ввода имени дашборда
 26. Сделайте скриншот
 
+![CPU utilization](https://github.com/Andrewsolo1969/8-01-hw/blob/main/img/CPU_utilization.png)
+
 Требования к результату
 - прикрепите в файл README.md скриншот вашего дашборда в Yandex Monitoring с мониторингом загрузки процессора виртуальной машины
-
-
-
-![Account](https://github.com/Andrewsolo1969/8-01-hw/blob/main/img/Account.png)`
-
-![Git clone](https://github.com/Andrewsolo1969/8-01-hw/blob/main/img/git_clone.png)`
-
-![Git diff](https://github.com/Andrewsolo1969/8-01-hw/blob/main/img/git_diff.png)`
-
-![Git_diff --staged](https://github.com/Andrewsolo1969/8-01-hw/blob/main/img/git_diff_staged.png)`
-
-![Git_status_2](https://github.com/Andrewsolo1969/8-01-hw/blob/main/img/git_status_2.png)`
-
-![push_origin](https://github.com/Andrewsolo1969/8-01-hw/blob/main/img/push_origin.png)`
-
-#### Ссылка 
-
-https://github.com/Andrewsolo1969/8-01-hw/commit/513113d72b0601631524181fc4a42717bff780ec
-
-Первое задание  было завершено первым коммитом - соответственно - ссылка на First commit
-
----
-
-## Задание 2
-
-![Gitignore](https://github.com/Andrewsolo1969/8-01-hw/blob/main/img/gitignore.png)`
-
-![Gitignore2](https://github.com/Andrewsolo1969/8-01-hw/blob/main/img/gitignore_2.png)`
-
-#### Ссылка 
-
-https://github.com/Andrewsolo1969/8-01-hw/commit/3f39bce978a5f43f529899619c04b2287480a417
-
-Второе задание - создание файла .gitignore, и его редактирование - Third commit
-
----
-
-## Задание 3
-
-#### Ссылка 
-
-
-![Создание ветки DEV](https://github.com/Andrewsolo1969/8-01-hw/blob/main/img/Branch_dev.png)`
-
-![test](https://github.com/Andrewsolo1969/8-01-hw/blob/main/img/Branch_dev_2.png)`
-
-![Слияние](https://github.com/Andrewsolo1969/8-01-hw/blob/main/img/merge.png)`
-
-![Network_graph](https://github.com/Andrewsolo1969/8-01-hw/blob/main/img/2_branhs.png)`
-
-'Network Graf выглядит не так, как в лекции, хотя ветки две
-
-https://github.com/Andrewsolo1969/8-01-hw/network
-
-Третье задание - создание второй ветки, редактирование файла test.sh и затем merge  в ветку main.
-Коммит Merge branch 'dev'
-https://github.com/Andrewsolo1969/8-01-hw/commit/546569cc30436ca2f919e37fea59977911200f25
-
-Окончательное оформление, добавление скриншотов и т.д. - коммит final commit main
-
-https://github.com/Andrewsolo1969/8-01-hw/commit/21a5b8f652a726c0ed370828e07f345987427997
-
 
